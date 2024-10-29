@@ -14,7 +14,7 @@ func main() {
  \____|\___/|_| \_\___| .__/ \___/|_|   \__|
                       |_|
 
-Ferramenta para gerar relatórios do banco de dadaos de restore
+Ferramenta para gerar relatórios do banco de dados de restore
 	`)
 	app.App()
 }
