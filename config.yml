@@ -1,0 +1,19 @@
+# Banco de dados principal
+database-prod:
+  usuario: <usuario>
+  senha: <senha>
+  host: <url/ip>
+  porta: <porta>
+  banco: <nome do banco>
+
+# Banco de dados com o restore
+database-restore:
+  usuario: <usuario>
+  senha: <senha>
+  host: <url/ip>
+  porta: <porta>
+  banco: <nome do banco>
+
+# Data para verificar os dados, use o formato: Ano, Mês e dia. ('YYYY-MM-DD'). Por exemplo, 2004/04/28
+data-verifiacao:
+  data: <data>
